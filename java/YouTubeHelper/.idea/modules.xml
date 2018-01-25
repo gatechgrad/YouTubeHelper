@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YouTubeHelper.iml" filepath="$PROJECT_DIR$/.idea/modules/YouTubeHelper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YouTubeHelper_main.iml" filepath="$PROJECT_DIR$/.idea/modules/YouTubeHelper_main.iml" group="YouTubeHelper" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/YouTubeHelper_test.iml" filepath="$PROJECT_DIR$/.idea/modules/YouTubeHelper_test.iml" group="YouTubeHelper" />
+    </modules>
+  </component>
+</project>
