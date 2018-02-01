@@ -164,7 +164,8 @@ public class MyUploadVideo {
                         case MEDIA_IN_PROGRESS:
                             System.out.println("Upload in progress");
                             //System.out.println("Upload percentage: " + uploader.getProgress());
-                            System.out.println("Upload percentage: " + uploader.getNumBytesUploaded());
+//                            System.out.println("Upload percentage: " + uploader.getNumBytesUploaded());
+                            System.out.println("Megabytes uploaded: " + String.format("%.2f", uploader.getNumBytesUploaded() / (float) 1048576));
                             break;
                         case MEDIA_COMPLETE:
                             System.out.println("Upload Completed");
